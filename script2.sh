@@ -1,6 +1,6 @@
 #! /bin/bash
 
-touch /home/zakaria2001/Bureau/MyProjects/fichier.txt
+touch /home/zakaria2001/Bureau/MyProjects/KzmProjects/fichier.txt
 
 
 ###
