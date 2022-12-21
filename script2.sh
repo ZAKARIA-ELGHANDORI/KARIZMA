@@ -1,7 +1,6 @@
 #! /bin/bash
 
-touch fichier.txt
-
+touch /home/zakaria2001/Bureau/MyProjects/KzmProjects/fichier.txt
 
 ###
 #pour lancer la création d'un fichier chaque -6heures on utilise la commande :

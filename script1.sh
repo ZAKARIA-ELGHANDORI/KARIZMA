@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo `date` > rebootdate.txt
+echo `date` >> /home/zakaria2001/Bureau/MyProjects/KzmProjects/rebootdate.txt
 
 
 ###
